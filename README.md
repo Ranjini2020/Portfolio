@@ -4,4 +4,5 @@ HTML, CSS and Bootstrap functionalities are used.
 
 The URL of the deployed application: 
 
-The URL of the GitHub repository:
+The URL of the GitHub repository: https://github.com/Ranjini2020/Portfolio
+
